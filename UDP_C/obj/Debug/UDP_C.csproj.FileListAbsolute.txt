@@ -1,0 +1,2 @@
+\\studepo\mmf$\1201020005\my documents\visual studio 2015\Projects\UDP_C\UDP_C\bin\Debug\UDP_C.exe.config
+\\studepo\mmf$\1201020005\my documents\visual studio 2015\Projects\UDP_C\UDP_C\obj\Debug\UDP_C.csprojResolveAssemblyReference.cache

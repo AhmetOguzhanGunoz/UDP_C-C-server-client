@@ -1,0 +1,7 @@
+\\studepo\mmf$\1201020005\my documents\visual studio 2015\Projects\UDP_C\UDP_Client\bin\Debug\UDP_Client.exe.config
+D:\UNIVERSITY\LESSONS\COMPUTER NETWORKS(6.Yarıyıl)\UDP_C C# server-client\UDP_Client\bin\Debug\UDP_Client.exe.config
+D:\UNIVERSITY\LESSONS\COMPUTER NETWORKS(6.Yarıyıl)\UDP_C C# server-client\UDP_Client\bin\Debug\UDP_Client.exe
+D:\UNIVERSITY\LESSONS\COMPUTER NETWORKS(6.Yarıyıl)\UDP_C C# server-client\UDP_Client\bin\Debug\UDP_Client.pdb
+D:\UNIVERSITY\LESSONS\COMPUTER NETWORKS(6.Yarıyıl)\UDP_C C# server-client\UDP_Client\obj\Debug\UDP_Client.csprojResolveAssemblyReference.cache
+D:\UNIVERSITY\LESSONS\COMPUTER NETWORKS(6.Yarıyıl)\UDP_C C# server-client\UDP_Client\obj\Debug\UDP_Client.exe
+D:\UNIVERSITY\LESSONS\COMPUTER NETWORKS(6.Yarıyıl)\UDP_C C# server-client\UDP_Client\obj\Debug\UDP_Client.pdb
